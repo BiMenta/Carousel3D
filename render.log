@@ -1,0 +1,1138 @@
+00:00.938  blend            | Read blend: "/Volumes/ZHITAI/黑客松/Carousel3D/carousel.blend"
+00:01.089  render           | Rendering single frame
+00:01.089  render           | Rendering frame 1
+00:01.090  render           | Start rendering: Carousel • Gilded Midnight, 视图层
+00:01.090  render           | Engine: Cycles
+00:01.328  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stepped circular platform
+Blender 5.2.3 LTS (hash e13b728c6880 built 2026-10-22 01:31:22)
+00:01.328  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform brass edge
+00:01.328  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stepped circular platform.001
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform brass edge.001
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stepped circular platform.002
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform brass edge.002
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stepped circular platform.003
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform brass edge.003
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.001
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.002
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.002
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.003
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.003
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.004
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.005
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.005
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.006
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.006
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.007
+00:01.329  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.008
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.008
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.009
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.009
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.010
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.011
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.011
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.012
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.012
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.013
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.014
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.014
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.015
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.015
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.016
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.016
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.017
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.017
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.018
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.018
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.019
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.020
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.020
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.021
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.021
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.022
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.022
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.023
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.023
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.024
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.024
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.025
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.025
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.026
+00:01.330  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.026
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.027
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.027
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.028
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.028
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.029
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.029
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.030
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.030
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.031
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.031
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.032
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.032
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.033
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.033
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.034
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.034
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.035
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.035
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.036
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.036
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.037
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.037
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.038
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.038
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.039
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.039
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.040
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.040
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.041
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.041
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.042
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.042
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.043
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.043
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.044
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.044
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.045
+00:01.331  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.045
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.046
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.046
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.047
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.047
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.048
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.048
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.049
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.050
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.050
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.051
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.051
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.052
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.052
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.053
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.053
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.054
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.054
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.055
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.056
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.056
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.057
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.057
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.058
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.058
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.059
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.059
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.060
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.060
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.061
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.061
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.062
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.062
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Deck plank seam.063
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial deck plank.063
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.001
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.002
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.003
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.007
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.010
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.011
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.012
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.014
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.015
+00:01.332  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.016
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.017
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.018
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.019
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.020
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.021
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.022
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.025
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.026
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.027
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.028
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.029
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.032
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.033
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.034
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.035
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.036
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.038
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.039
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.040
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.041
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.042
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.043
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.045
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.046
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.048
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.049
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.003
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.053
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.054
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Platform gilt leaf.055
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.001
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.003
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.004
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.005
+00:01.333  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.005
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.006
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.006
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.007
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.007
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.008
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.008
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.009
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.009
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.010
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.010
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.011
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.011
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.012
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.012
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.013
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.013
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.014
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.014
+00:01.334  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.015
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.015
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.016
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.016
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.017
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.017
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.018
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.018
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.019
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.019
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.020
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.020
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.021
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.021
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.022
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.022
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.023
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.023
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.024
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.024
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.025
+00:01.335  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.025
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.026
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.026
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.027
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.027
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.028
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.028
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.029
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.029
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.030
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.030
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Crimson ivory roof gore.031
+00:01.336  render           | Fra: 1 | Mem: 1M | Synchronizing object | Canopy golden seam.031
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Roof finial stem
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Roof finial orb
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.001
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.004
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.006
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.007
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.008
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.010
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.011
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.013
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.015
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.016
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.017
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.018
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial canopy support
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.019
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.020
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.021
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.001
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.002
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.003
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.004
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.005
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.006
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.007
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.008
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.010
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.012
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.013
+00:01.337  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.022
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.023
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.026
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.027
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.029
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.033
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.034
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.035
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial canopy support.001
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.037
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.038
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.039
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.040
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.041
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.042
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.043
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.014
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.015
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.016
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.017
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.018
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.019
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.020
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.021
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.022
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.024
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.026
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.027
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.002
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.044
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.045
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.046
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.048
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.050
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.051
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.053
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.055
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.056
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.057
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial canopy support.002
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.059
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.060
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.061
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.062
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.063
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.003
+00:01.338  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.065
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.002
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.028
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.029
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.033
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.034
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.036
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.038
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.039
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.040
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.041
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.003
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial canopy support.003
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.004
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.067
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.069
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.070
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.071
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.072
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.075
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.077
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.078
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.079
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.080
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.081
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.084
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.085
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.086
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.087
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.003
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.044
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.045
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.046
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.047
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.048
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.049
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.050
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.051
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.052
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.053
+00:01.339  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.054
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.088
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.089
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.090
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.091
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.092
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.093
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.094
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.095
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.096
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.097
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.098
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.099
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.103
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.105
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.106
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.107
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.109
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.004
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.056
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.057
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.058
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.060
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.061
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.062
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.063
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.064
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.065
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.066
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.068
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.069
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Radial canopy support.005
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.005
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.111
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.113
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.114
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.115
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.116
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.006
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.117
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.118
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.119
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.120
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.121
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.124
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.126
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.127
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.128
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.129
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.130
+00:01.340  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.131
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.005
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.073
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.074
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.075
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.077
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.078
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.079
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.081
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.082
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.006
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.133
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.134
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.135
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.136
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.137
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.138
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.139
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.142
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.144
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.007
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.146
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.147
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.148
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.149
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.150
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.151
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.153
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.084
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.085
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.087
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.088
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.089
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.090
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.091
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.092
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.093
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.094
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.095
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.096
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.097
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.154
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.155
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.156
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.157
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.158
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.159
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.160
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.161
+00:01.341  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.163
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.164
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.165
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.166
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.167
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.168
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.169
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.170
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.173
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.175
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.099
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.101
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.102
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.103
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.105
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.107
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.108
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.110
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.111
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.008
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.176
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.178
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.179
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.180
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.182
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.183
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.184
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.187
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.188
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.189
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.190
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.191
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.193
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.194
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.195
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.009
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.197
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.008
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.113
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.114
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.116
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.117
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.118
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.120
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.121
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.122
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.123
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.124
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.125
+00:01.342  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.198
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.199
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.200
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.201
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.202
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.203
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.204
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.205
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.206
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.207
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.208
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.209
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.210
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.211
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.213
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.214
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.215
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.216
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.218
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.217
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.009
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.127
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.128
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.130
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.133
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.134
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.135
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.136
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.137
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.139
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.010
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.010
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.220
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.222
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.224
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.226
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.227
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.232
+00:01.343  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.233
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.234
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.235
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.236
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.237
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.238
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.241
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.140
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.142
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.143
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.144
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.145
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.146
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.147
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.149
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Scalloped canopy cartouche border.011
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.150
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.151
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.152
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.153
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Burgundy oval painted canopy panel.011
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.243
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.244
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.246
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.248
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.249
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.250
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.251
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.252
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.253
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.255
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.256
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.258
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.259
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.260
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.261
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.262
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia marquee bulb.263
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Fascia gold rosette.011
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.154
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.155
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.157
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.158
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.160
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.161
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.162
+00:01.344  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central gilt cornice.001
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.164
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.165
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Undercanopy festoon bulb.166
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central ornate drum
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central gilt cornice.002
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central gilt cornice.003
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central gilt cornice.004
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.001
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.002
+00:01.345  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.003
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.004
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.001
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.008
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.001
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.009
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.010
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.011
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.012
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.013
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.014
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.016
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.006
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.007
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.008
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.009
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.017
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.019
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.026
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.027
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.002
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.028
+00:01.346  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.029
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.030
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.031
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.032
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.033
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.011
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.012
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.013
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.014
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.034
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.035
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.036
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.039
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.042
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.003
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.044
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.047
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.048
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.049
+00:01.347  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.050
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.016
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.017
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.018
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.019
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.052
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.054
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.056
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.057
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.059
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.004
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.061
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.063
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.065
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.066
+00:01.348  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.067
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.021
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.022
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.023
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.024
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.068
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.071
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.075
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.077
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.078
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.079
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.080
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.081
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.082
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.084
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.025
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.026
+00:01.349  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.027
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.028
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.029
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.085
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.086
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.091
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.094
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.095
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.006
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.097
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.098
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.030
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.099
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.100
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.101
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.031
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.032
+00:01.350  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.033
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.034
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.102
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.104
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.108
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.110
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.111
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.007
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.035
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.116
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.117
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.118
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.036
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.037
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.038
+00:01.351  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.039
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.119
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.123
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.124
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.008
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.125
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.128
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.133
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.134
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.135
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.041
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.042
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.043
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.044
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.136
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.137
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.140
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.141
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.142
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.145
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.147
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.150
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.151
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.152
+00:01.352  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.045
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.046
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.047
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.048
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.049
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.153
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.154
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.158
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.162
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.010
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.164
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.050
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.165
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.166
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.167
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.168
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.051
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.052
+00:01.353  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.053
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.054
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.170
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.173
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.174
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.176
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.179
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Central column gilt vertical.011
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.181
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.055
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.182
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.183
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.184
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.185
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.186
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.056
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.057
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.058
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Gilded acanthus spiral.059
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.187
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.188
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.191
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.194
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.197
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.198
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage curved gilt arm
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.200
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.201
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Column incandescent bulb.202
+00:01.354  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage red upholstered seat
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage tall upholstered back
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage decorative wheel.001
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage curved gilt arm.001
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage decorative wheel.002
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage decorative wheel.003
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage button tuft
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carriage button tuft.002
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan elegant curved neck
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan rounded hull
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan head
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan orange beak
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.003
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.004
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.005
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.006
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.007
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.010
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.011
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.013
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.014
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.015
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.018
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.019
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.020
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.021
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.001
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan eye.001
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.023
+00:01.355  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.024
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.027
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.029
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.030
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.031
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.032
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.033
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.034
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.035
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.036
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.037
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.038
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.039
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.041
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.042
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Layered carved swan feather.043
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Swan seat cushion
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.001
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.002
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.003
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.001
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.001
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.001
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.002
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.003
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.004
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.005
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.006
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.007
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.008
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.009
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.010
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.011
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.012
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.013
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.014
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.001
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.002
+00:01.356  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.003
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.004
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.005
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.006
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.007
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.008
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.001
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.001
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.001
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel.001
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.005
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.007
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.002
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.002
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.002
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.003
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.003
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.003
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.003
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.015
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.016
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.017
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.018
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.019
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.020
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.021
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.022
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.023
+00:01.357  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.024
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.025
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.026
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.027
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.028
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.029
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.009
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.010
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.011
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.012
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.013
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.014
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.015
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.016
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.017
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.002
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket.001
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.003
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle.001
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.002
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.002
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.003
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.003
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel.002
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.008
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.010
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.011
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.004
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.004
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.004
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.005
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.005
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.005
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.005
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.030
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.031
+00:01.358  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.032
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.033
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.034
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.035
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.036
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.037
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.038
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.039
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.040
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.041
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.042
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.043
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.044
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.018
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.019
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.020
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.021
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.022
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.023
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.024
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.025
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.026
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.004
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket.002
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.005
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.004
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle.002
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.004
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.005
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.005
+00:01.359  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel.003
+00:01.360  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.006
+00:01.360  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.006
+00:01.360  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.007
+00:01.360  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.007
+00:01.360  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.007
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.045
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.046
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.047
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.048
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.049
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.050
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.051
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.052
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.053
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.054
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.055
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.056
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.057
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.058
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.059
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.027
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.028
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.029
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.030
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.031
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.032
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.033
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.034
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.035
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.006
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket.003
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.007
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.006
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle.003
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.006
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.007
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.007
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel.004
+00:01.361  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.016
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.019
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Eye catchlight.008
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.008
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.009
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.009
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.009
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.060
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.061
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.062
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.063
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.064
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.065
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.066
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.067
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.068
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.069
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.070
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.071
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.072
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.073
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.074
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.036
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.037
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.038
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.039
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.040
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.041
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.042
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.043
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.044
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.008
+00:01.362  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket.004
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.009
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.008
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle.004
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.008
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.009
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.009
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse barrel.005
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Dark polished hoof.022
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.010
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.010
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.010
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Horse black eye.011
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Red bridle cheek.011
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Golden reins.011
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.075
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.076
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.077
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.078
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.079
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.080
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.081
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.082
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.083
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.084
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.085
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.086
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.087
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.088
+00:01.363  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carved mane lock.089
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.045
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.046
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.047
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.048
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.049
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.050
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.051
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.052
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Sweeping horse tail.053
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.010
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Royal saddle blanket.005
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Saddle cloth gilt piping.011
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.010
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Raised leather saddle.005
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.010
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Hanging stirrup strap.011
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Stirrup loop.011
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole
+00:01.364  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.001
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.001
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.001
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.002
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.004
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.005
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.002
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.003
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.003
+00:01.365  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.007
+00:01.366  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.004
+00:01.366  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.009
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.005
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.005
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole decorative socket.011
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.006
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.006
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Carousel brass mounting pole.007
+00:01.367  render           | Fra: 1 | Mem: 1M | Synchronizing object | Pole spiral engraving.007
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Display ground
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Warm carousel interior
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Warm marquee pool
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Warm marquee pool.003
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Warm marquee pool.005
+00:01.368  render           | Fra: 1 | Mem: 1M | Synchronizing object | Moonlight softbox
+00:01.368  render           | Fra: 1 | Mem: 1M | Initializing
+00:01.384  render           | Fra: 1 | Mem: 1M | Waiting for render to start
+00:01.384  render           | Fra: 1 | Mem: 1M | Updating Scene
+00:01.384  render           | Fra: 1 | Mem: 1M | Updating Shaders
+00:01.385  render           | Fra: 1 | Mem: 1M | Loading render kernels (may take a few minutes the first time)
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Procedurals
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Background
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Scene Attribute
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Camera
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Meshes Flags
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Objects
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Objects | Copying Transformations to device
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Particle Systems
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Particle Systems | Copying Particles to device
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Meshes
+00:01.387  render           | Fra: 1 | Mem: 1M | Updating Objects | Applying Static Transformations
+00:01.392  render           | Fra: 1 | Mem: 1M | Updating Scene BVH | Building
+00:01.392  render           | Fra: 1 | Mem: 1M | Updating Scene BVH | Building BVH
+00:01.397  render           | Fra: 1 | Mem: 16M | Updating Scene BVH | Building BVH 0%
+00:01.432  render           | Fra: 1 | Mem: 32M | Updating Scene BVH | Copying BVH to device
+00:01.432  render           | Fra: 1 | Mem: 32M | Updating Mesh | Computing attributes
+00:01.435  render           | Fra: 1 | Mem: 33M | Updating Mesh | Copying Attributes to device
+00:01.435  render           | Fra: 1 | Mem: 40M | Updating Mesh | Computing normals
+00:01.438  render           | Fra: 1 | Mem: 40M | Updating Mesh | Copying Mesh to device
+00:01.438  render           | Fra: 1 | Mem: 47M | Updating Objects Flags
+00:01.438  render           | Fra: 1 | Mem: 47M | Updating Primitive Offsets
+00:01.438  render           | Fra: 1 | Mem: 47M | Updating Images
+00:01.438  render           | Fra: 1 | Mem: 47M | Updating Volume
+00:01.439  render           | Fra: 1 | Mem: 47M | Updating Camera Volume
+00:01.439  render           | Fra: 1 | Mem: 47M | Updating Lookup Tables
+00:01.439  render           | Fra: 1 | Mem: 47M | Updating Lights
+00:01.440  render           | Fra: 1 | Mem: 47M | Updating Lights | Computing tree
+00:01.521  render           | Fra: 1 | Mem: 67M | Updating Integrator
+00:01.521  render           | Fra: 1 | Mem: 67M | Updating Film
+00:01.522  render           | Fra: 1 | Mem: 67M | Updating Lookup Tables
+00:01.522  render           | Fra: 1 | Mem: 67M | Updating Baking
+00:01.522  render           | Fra: 1 | Mem: 67M | Updating Device | Writing constant memory
+00:01.522  render           | Fra: 1 | Mem: 67M | Loading denoising kernels (may take a few minutes the first time)
+00:01.522  render           | Fra: 1 | Mem: 67M | Sample 0/32
+00:03.371  render           | Fra: 1 | Remaining: 00:57.30 | Mem: 179M | Sample 1/32
+00:30.518  render           | Fra: 1 | Remaining: 00:25.58 | Mem: 179M | Sample 17/32
+01:12.624  render           | Fra: 1 | Mem: 179M | Sample 32/32
+01:12.628  render           | Fra: 1 | Mem: 179M | Finished
+01:12.648  render           | Executing compositor
+01:12.648  render           | Fra: 1 | 合成处理
+01:13.279  render           | Saved: '/Volumes/ZHITAI/黑客松/Carousel3D/carousel_preview0001.png'
+01:13.279  render           | Time: 01:12.18 (Saving: 00:00.38)
+
+Blender quit
